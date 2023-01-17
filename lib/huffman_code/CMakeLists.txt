@@ -1,0 +1,1 @@
+add_library(huffman huffman.cpp huffman.h)

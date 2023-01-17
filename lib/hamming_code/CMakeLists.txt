@@ -1,0 +1,1 @@
+add_library(hamming hamming.cpp hamming.h)
